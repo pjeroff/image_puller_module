@@ -33,7 +33,7 @@ Finally, install Selenium (via terminal):
 pip3 install selenium
 ```
 
-## What it does:
+## What pull_images.py does:
 
 Every time we run the program it will check if the folder with the search querry exists already (so make sure there is NO folder with your search querry else the program EXITS)...then proceeds to creating a new folder with our keywords and dumps our images into that folder.
 
