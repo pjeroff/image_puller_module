@@ -46,14 +46,18 @@ To get 100 images of "Grizzly Bear" run in terminal:
 ```
 python3 pull_images.py -k grizzly+bear
 ```
+
 -k is for keyword.... and if you want any other search term just type something else, but make sure to use (+) for multiple word search querries..
+
 
 > example searching for "Deja Vu":
 ```
 python3 pull_images.py -k Deja+Vu
 ```
 
-Since the default # of images is limited to 100, you can change it to your desired amount by adding the argument -n followed by your desired amount of images (only up to one page of the search engine):
+
+Since the default # of images is limited to 100, you can change it to your desired amount by adding the argument -n followed by your desired amount of images (only up to one page worth of the search engine results though):
+
 
 > In this case, we set it to 300 images
 ```
