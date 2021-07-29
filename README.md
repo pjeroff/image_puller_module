@@ -41,7 +41,7 @@ Every time we run the program it will check if the folder with the search querry
 
 Make sure you are in the DIR where pull_images.py is...
 
-To get 100 images of "Grizzly Bear" run in terminal, run: 
+To get 100 images of "Grizzly Bear" run in terminal: 
 
 ```
 python3 pull_images.py -k grizzly+bear
