@@ -5,7 +5,7 @@ Simple immage puller to fascilitate getting smaller datasets (default 100 images
 
 ## PREREQUISITES:
 
-This code was run in Ubuntu 20.04. For any other OS (like macOS) I'm not sure if commands such as mkdir etc. work, only for Linux.
+This code was run in Ubuntu 20.04. For any other OS (like macOS) I'm not sure if commands such as mkdir etc. work, this is only for Linux.
 
 You'll need Chrome and Chromedriver.
 Grab Chromedriver at the following link: https://chromedriver.chromium.org/downloads
