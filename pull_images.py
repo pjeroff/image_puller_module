@@ -15,7 +15,6 @@ ap.add_argument("-n", "--number", required = False, help = "Specify a number of 
 args = vars(ap.parse_args())
 
 search_query = args["keywords"]
-#search_query = "grizzly+bear"
 
 # Setting default limit of images to download, in this case.. it's 100 images, else we take the users desired number
 limit = 100
