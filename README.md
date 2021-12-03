@@ -44,7 +44,7 @@ Make sure you are in the DIR where pull_images.py is...
 To get 100 images of "Grizzly Bear" run in terminal: 
 
 ```
-python3.8 pull_images.py -k grizzly+bear
+python3 pull_images.py -k grizzly+bear
 ```
 
 -k is for keyword.... and if you want any other search term just type something else, but make sure to use (+) for multiple word search querries..
@@ -52,7 +52,7 @@ python3.8 pull_images.py -k grizzly+bear
 
 > example searching for "Deja Vu":
 ```
-python3.8 pull_images.py -k Deja+Vu
+python3 pull_images.py -k Deja+Vu
 ```
 
 
@@ -61,7 +61,7 @@ Since the default # of images is limited to 100, you can change it to your desir
 
 > In this case, we set it to 300 images
 ```
-python3.8 pull_images.py -k Deja+Vu -n 300
+python3 pull_images.py -k Deja+Vu -n 300
 ```
 
 
