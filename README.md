@@ -8,6 +8,7 @@ Simple immage puller to fascilitate getting smaller datasets (default 100 images
 This code was run in Ubuntu 20.04. For any other OS (like macOS) I'm not sure if commands such as mkdir etc. work, this is only for Linux.
 
 You'll need Chrome and Chromedriver.
+NOTE: Download the Chrome and CDriver that are compatible with eachother.
 Grab Chromedriver at the following link: https://chromedriver.chromium.org/downloads
 
 Then open the terminal in the folder you downloaded the driver to and run:
