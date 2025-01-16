@@ -1,3 +1,6 @@
+# TODO: Fix this for Arch systems
+
+
 # Simple Web scrapper to fetch 100 images for our ML/DL learning (Fast.ai)
 
 Simple immage puller to fascilitate getting smaller datasets (default 100 images) for our future ML/DL learning (i.e. Fast.ai's 2nd notebook from Fastbook).
